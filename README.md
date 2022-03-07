@@ -9,7 +9,7 @@ Saudações!
 ##
 <div align="left">
   <a href="https://github.com/nozellabrenda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nozellabrenda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nozellabrenda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
  </div>
 
 ##
