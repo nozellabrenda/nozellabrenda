@@ -1,8 +1,6 @@
-<h3>
+<h2>
   <p align="center"><img align="center" src="https://github.com/nozellabrenda/nozellabrenda/blob/main/assets/brenda_link.gif?raw=true" height="75px" /> Saudações!</p>
-</h3>
-
-<hr />
+</h2>
 
 - 🔭 I’m currently working as a **e-commerce manager**
 
