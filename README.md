@@ -1,4 +1,4 @@
-<h1 align="center">👋 Saudadções, I'm Brenda</h1>
+<h1 align="center">👋 Saudações, I'm Brenda</h1>
 
 - 🔭 I’m currently working as a **e-commerce manager**
 
@@ -22,12 +22,10 @@
 
 ##
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nozellabrenda&show_icons=true&theme=tokyonight&locale=en" alt="nozellabrenda" />
-</p>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nozellabrenda&theme=buefy&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nozellabrenda&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nozellabrenda" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nozellabrenda&theme=buefy&show_icons=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nozellabrenda&theme=dark" alt="nozellabrenda" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nozellabrenda&theme=buefy)
 
 ![Snake animation](https://github.com/nozellabrenda/nozellabrenda/blob/output/github-contribution-grid-snake.svg)
