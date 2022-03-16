@@ -1,4 +1,8 @@
-<h1 align="center">👋 Saudações, I'm Brenda</h1>
+<h3>
+  <p align="center"><img align="center" src="https://github.com/nozellabrenda/nozellabrenda/blob/main/assets/brenda_link.gif?raw=true" height="75px" /> Saudações!</p>
+</h3>
+
+<hr />
 
 - 🔭 I’m currently working as a **e-commerce manager**
 
