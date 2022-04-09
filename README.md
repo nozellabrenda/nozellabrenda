@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **e-commerce manager**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React and Python.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and React.**
 
 - 🤝 I’m looking for help to **find an opportunity as a dev**
 
