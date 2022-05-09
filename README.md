@@ -31,8 +31,6 @@
 
 ##
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nozellabrenda&theme=buefy&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nozellabrenda&theme=buefy&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nozellabrenda&theme=buefy)
